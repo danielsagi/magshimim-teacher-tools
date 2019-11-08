@@ -16,7 +16,7 @@ if len(sys.argv) < 3:
     print("Usage: ./auto_download.py <class_id> <task_id>")
     sys.exit(1)
 
-BASE_URL = "https://magshimim.edu20.org"
+BASE_URL = "http://ilearn.cyber.org.il/"
 CLASS_ID = sys.argv[1] # example: "1138084"
 TASK_ID = sys.argv[2] # example: "8796494"
 
